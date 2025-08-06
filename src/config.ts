@@ -1,92 +1,58 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
-  accentColor: "#1d4ed8",
+  name: "Kartik Lodhi",
+  title: "Data Scientist",
+  description: "Turning Data & AI into Actionable Insights",
+  accentColor: "#305CDE",
   social: {
-    email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    email: "kartiklodhi20011@gmail.com",
+    linkedin: "https://www.linkedin.com/in/kartik-lodhi-39212b248",
+    twitter: "https://x.com/_KartikLodhi_",
+    github: "https://github.com/Kartik-001",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "Kartik is a self-taught AI/ML practitioner who recently completed a B.Tech in Computer Science. He is passionate about building intelligent systems that blend deep learning with real-world robotics, aiming to use AI to make decisions smarter and solutions more scalable. His journey emphasizes project-driven learning and turning data into actionable insights.",
+  skills: [
+    "Python",
+    "SQL",
+    "Machine Learning",
+    "Deep Learning",
+    "Data Visualization",
+    "NLP",
+    "Problem Solving",
+    "Communication",
+    "Cloud Basics"
+  ],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "Baby GPT-2 from Scratch",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
-    },
-    {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
-      description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
-    },
-    {
-      name: "ExtensionKit",
-      description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
-      link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "Two-layer autoregressive transformer with BPE tokenizer—mini GPT-2 built end-to-end with beam-search decoding.",
+      link: "https://babygpt2.streamlit.app/",
+      skills: ["PyTorch", "NumPy", "Streamlit"],
+      image: "my-portfolio\\public\\projects\\babygpt2.png",
     },
   ],
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+      company: "Agratas Edutech Pvt. Ltd.",
+      title: "AI Intern",
+      dateRange: "Jun 2023 – Aug 2023",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
-      ],
-    },
-    {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
-      bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
-      ],
-    },
-    {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
-      bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
-      ],
+        "Improved model accuracy by 15% through fine-tuning and feature engineering.",
+        "Built data pipelines with Pandas/NumPy to boost processing efficiency by 30%.",
+        "Deployed a Streamlit sentiment analysis tool for actionable user insights."
+      ]
     },
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "University Institute of Technology, RGPV, Bhopal",
+      degree: "B.Tech in Computer Science & Engineering",
+      dateRange: "2020 – 2024",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
-      ],
-    },
-    {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
-      achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
-      ],
+        "Graduated with a 7.85/10 GPA",
+        "Most learning was self-taught and project-driven"
+      ]
     },
   ],
 };
