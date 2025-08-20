@@ -31,6 +31,14 @@ export const siteConfig = {
       skills: ["PyTorch", "NumPy", "Streamlit"],
       image: "my-portfolio\\public\\projects\\babygpt2.png",
     },
+    {
+      name: "Fraud Detection in Financial Transactions",
+      description:
+        "End-to-end ML pipeline on 6.3M+ bank transactions—engineered features, trained Random Forest & XGBoost, achieved 0.999 AUC and uncovered real-world fraud patterns.",
+      link: "https://github.com/Kartik-001/Fraud-Detection", // replace with actual repo link
+      skills: ["Python", "Pandas", "Scikit-learn", "XGBoost", "Random Forest"],
+      image: "my-portfolio\\public\\projects\\fraud-detection.png",
+    },
   ],
   experience: [
     {
