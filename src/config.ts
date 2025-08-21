@@ -29,7 +29,7 @@ export const siteConfig = {
         "Two-layer autoregressive transformer with BPE tokenizer—mini GPT-2 built end-to-end with beam-search decoding.",
       link: "https://babygpt2.streamlit.app/",
       skills: ["PyTorch", "NumPy", "Streamlit"],
-      image: "my-portfolio\\public\\projects\\babygpt2.png",
+      image: "public\\projects\\babygpt2.png",
     },
     {
       name: "Fraud Detection in Financial Transactions",
