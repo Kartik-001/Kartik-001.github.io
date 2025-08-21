@@ -44,7 +44,7 @@ export const siteConfig = {
     {
       company: "Agratas Edutech Pvt. Ltd.",
       title: "AI Intern",
-      dateRange: "Jun 2023 – Aug 2023",
+      dateRange: "May 2025 – Jul 2025",
       bullets: [
         "Improved model accuracy by 15% through fine-tuning and feature engineering.",
         "Built data pipelines with Pandas/NumPy to boost processing efficiency by 30%.",
