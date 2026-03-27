@@ -5,7 +5,7 @@ export const siteConfig = {
   accentColor: "#305CDE",
   social: {
     email: "kartiklodhi20011@gmail.com",
-    linkedin: "https://www.linkedin.com/in/kartik-lodhi-39212b248",
+    linkedin: "https://www.linkedin.com/in/kartik-lodhi",
     twitter: "https://x.com/_KartikLodhi_",
     github: "https://github.com/Kartik-001",
   },
