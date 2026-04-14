@@ -4,7 +4,7 @@ export const siteConfig = {
   description: "Turning Data & AI into Actionable Insights",
   accentColor: "#305CDE",
   social: {
-    email: "kartiklodhi20011@gmail.com",
+    email: "kartiklodhi116@gmail.com",
     linkedin: "https://www.linkedin.com/in/kartik-lodhi",
     twitter: "https://x.com/_KartikLodhi_",
     github: "https://github.com/Kartik-001",
